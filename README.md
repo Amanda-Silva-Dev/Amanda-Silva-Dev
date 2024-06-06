@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amanda-Silva-Dev
+- 👋 Hi, I’m Amanda Silva
 - 👀 I’m interested in Work with Front End and Back End
 - 🌱 I’m currently learning:
 - HTML;
