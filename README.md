@@ -7,7 +7,7 @@
 - React;
 - C#;
 - SQL
-- 📫 How to reach me: amandasilvamarques@hotmail.com
+- 📫 Contato: amandasilvamarques@hotmail.com
 
 
 <!---
