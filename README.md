@@ -6,7 +6,7 @@
 - Python;
 - C#;
 - Javascript;
-- NoJs;
+- NodeJs;
 - Mysql.
 - Here on my GitHub, I share projects and exercises that reflect my evolution and dedication to learning.
 - 📫 Contato: amandasilvamarques@hotmail.com
