@@ -1,12 +1,14 @@
 - 👋 Hi, I’m Amanda Silva
-- 👀 I’m interested in Work with Front End and Back End
-- 🌱 I’m currently learning:
+- 👀 I’m interested in Work Full Stack
+- 🌱 Hello! I'm a Systems Analysis and Development student. I’m currently learning:
 - HTML;
 - CSS;
-- Javascript;
-- React;
+- Python;
 - C#;
-- SQL
+- Javascript;
+- NoJs;
+- Mysql.
+- Here on my GitHub, I share projects and exercises that reflect my evolution and dedication to learning.
 - 📫 Contato: amandasilvamarques@hotmail.com
 
 
