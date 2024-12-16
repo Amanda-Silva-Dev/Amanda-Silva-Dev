@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amanda Silva
-- 👀 I’m interested in Work Full Stack
+- 👀 Aspiring full-stack developer, open to opportunities to grow and contribute in dynamic projects
 - 🌱 Hello! I'm a Systems Analysis and Development student. I’m currently learning:
 - HTML;
 - CSS;
